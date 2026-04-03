@@ -98,7 +98,7 @@ Push the result to GitHub repository as index.html
 
 ## 🎬 Promo Video (VEO3)
 
-- **YouTube link:** `[to be added after upload]`
+- **YouTube link:** `[[to be added after upload]](https://youtu.be/8yJdfF-5woQ)`
 
 ---
 
