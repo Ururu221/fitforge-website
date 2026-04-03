@@ -97,8 +97,11 @@ Push the result to GitHub repository as index.html
 ---
 
 ## 🎬 Promo Video (VEO3)
+Prompt: `8-second FitForge promo. Dark gym, neon green lighting.
+Fast cuts: athlete lifting, running, phone UI. Text: "FITFORGE" → 
+"FORGE THE BEST VERSION OF YOU" → CTA "Start Free Trial".`
 
-- **YouTube link:** `(https://youtu.be/8yJdfF-5woQ)`
+- **YouTube:** https://youtu.be/8yJdfF-5woQ
 
 ---
 
